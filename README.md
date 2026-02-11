@@ -1,6 +1,6 @@
 # Web Development Project 6 - Brewery Details
 
-Submitted by: Sudarshan Tiwari
+Submitted by
 
 This web app: **insert description**
 
